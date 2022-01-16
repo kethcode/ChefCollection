@@ -1,0 +1,34 @@
+{
+	"name": "SLOW COOKED FREE-RANGE FOWL AND ITS GRILLED PORCINI’S MUSHROOMS",
+	"image": "https://i.imgur.com/6aHNtl1.jpeg",
+    "description": "A plate to have fun in the evening after the Sunday outing with family or as a couple, to drink with a Pinot noir 'les Ursulines'",
+	"external_url": "http://toquenchef.com/",
+	"attributes": [{
+		"value": "TABLE",
+		"trait_type": "Background"
+	}, {
+		"value": "FOWL MEAT",
+		"trait_type": "Type"
+	}, {
+		"value": "3 of 5",
+		"trait_type": "Difficulty"
+	}, {
+		"value": "FOWL BONE REDUCTION WITH GARLIC, THYM",
+		"trait_type": "Sauce"
+	}, {
+		"value": "GARLIC, THYM, SALT ,PEPPER",
+		"trait_type": "Spices"
+	}, {
+		"value": "SNOW PEAS, CANDIED NOIRMOUTIER POTATOES, PARSNIPS",
+		"trait_type": "Vegetable"
+	}, {
+		"value": "PLATE",
+		"trait_type": "Accessorie"
+	}, {
+		"value": "WHITE",
+		"trait_type": "Color Accessorie"
+	}, {
+		"value": "PAN AND COOKER",
+		"trait_type": "Cooked"
+	}]
+}
